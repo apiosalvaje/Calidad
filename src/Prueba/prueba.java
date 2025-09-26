@@ -7,6 +7,6 @@ public class prueba {
 		int b = 4;
 		int suma = a + b;
 		
-		System.out.println("El resultado de la suma es: " + suma);
+		System.out.println("El resultado de la suma entre " + a + " y " + b + " es: " + suma);
 	}
 }
